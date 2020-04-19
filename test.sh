@@ -1,0 +1,1 @@
+python tools/test_ins.py configs/solo/solo_r50_fpn_8gpu_1x.py  work_dirs/solo_release_r50_fpn_8gpu_1x/SOLO_R50_1x.pth --show --out  work_dirs/solo_release_r50_fpn_8gpu_1x/results_solo.pkl --eval segm

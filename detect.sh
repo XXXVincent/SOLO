@@ -1,0 +1,2 @@
+#python tools/test_ins_vis.py configs/solo/solo_r50_fpn_8gpu_1x.py  work_dirs/solo_release_r50_fpn_8gpu_1x/SOLO_R50_1x.pth --show --save_dir  work_dirs/solo_release_r50_fpn_8gpu_1x/vis/
+python tools/test_ins_vis.py configs/solo/solo_r50_fpn_8gpu_1x_tianchi.py  work_dirs/solo_release_r50_fpn_8gpu_1x_tianchi/epoch_10.pth --show --save_dir  work_dirs/solo_release_r50_fpn_8gpu_1x_tianchi/vis/
